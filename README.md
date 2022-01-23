@@ -6,6 +6,6 @@ more info: Interactive Wind and Vegetation in 'God of War' GDC 2019 https://yout
 
 just a quick experiment,the script is not production ready. 
 
-(it works, but it's really slow since the script dublicates your original layer 20 * amount of mip levels times).
+(it works, but it's really slow since the script duplicates your original layer 20 * amount of mip levels times).
 
 ![](mfexample.jpg)
